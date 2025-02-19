@@ -1,0 +1,1 @@
+import React from 'react'; is used in a file to transform the jsx else not required

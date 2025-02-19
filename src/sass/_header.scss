@@ -1,0 +1,22 @@
+.mfs-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ff6f00;
+  flex-grow: 1;
+  height: 100px;
+}
+
+.mfs-right-header a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.mfs-right-header a:hover {
+  color: black;
+}
+
+.mfs-logo img {
+  width: 50px;
+  border-radius: 50%;
+}
